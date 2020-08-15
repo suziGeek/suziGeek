@@ -1,6 +1,5 @@
 ### Hi there 👋
-<div>🔭 I’m currently working on deploying a React.js App that consumes my .Net API server.</div>
-<div>🌱 I finished a bootcamp .Net Core C# SQL Tech Stack.</div>
+<div>🌱 Recently completed a  .Net Core C# SQL Tech Stack Bootcamp.</div>
 
 <!--
 **suziGeek/suziGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
